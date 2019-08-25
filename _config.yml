@@ -2,13 +2,13 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+  - index.md
+  - about.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'follow me on <a href="https://matters.news/@vibertthio">matters</a> & <a href="https://medium.com/@vibertthio">matters</a>'
 
-#style: light # dark (default) or light
+style: light
 
 plugins:
   - jekyll-seo-tag
