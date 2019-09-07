@@ -6,9 +6,9 @@ header_pages:
   - index.md
   - about.md
 
-footer: 'follow me on <a href="https://matters.news/@vibertthio">matters</a> & <a href="https://medium.com/@vibertthio">matters</a>'
+footer: 'follow me on <a href="https://matters.news/@vibertthio">matters</a> & <a href="https://medium.com/@vibertthio">medium</a>'
 
-style: light
+style: dark
 
 plugins:
   - jekyll-seo-tag
