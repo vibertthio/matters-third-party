@@ -4,11 +4,23 @@ layout: home
 permalink: /
 ---
 
-2019-08-13 [📖 不知道該讀什麼好？讀了很多書卻記不得？書該不該讀完？利用 Notion 打造全方位閱讀系統！](https://ipfs.io/ipfs/QmUyAsTqEcTWYgqteWEp1TbAPE49d1dggb5AQMeRtuhYuS)
+2019-09-07 [編程自學指南番外・給Matters寫個App吧](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmUi8UiSDHiFeGWvgrXB2VkK4WzxqWEWKGMSNKgvsZYJkn)
 
-2019-08-07 [✍️我如何設計個人化 Notion ：打造數位分身](https://ipfs.io/ipfs/QmPKRcptz2exAL1UYFLe5LqVk9EJGVMPHbuPZSq2x2T8Pt)
+2019-08-11 [无政府的言论审查](https://d26g9c7mfuzstv.cloudfront.net/ipfs/Qmf9AVrtG6PfKeFyFxjzXQNva6dNS3VCSWi5FcAGcTJX3g)
 
-2019-01-07 [🍎 實驗性評測：Walter Isaacson《賈伯斯傳》](https://ipfs.io/ipfs/QmQ8BvDAakN8ynvQ4C8vmLyAFDSdH2eGyZMtTrRmPSVamN)
+2019-07-28 [拉丁歌词解析：Libera me](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmQ5MqUwsc1wrg2Krpu2X8AyitRETsq4ucsakDiFohPPiT)
 
-2018-12-20 [ 👩‍🎨 🤖 藝術家／設計師需要了解機器學習的三個原因](https://ipfs.io/ipfs/QmPYNg9KrkwiRUU3BZwNDm6JUCwYtD77yX3VNzvoFJVf6n)
+2019-07-12 [拉丁歌词解析：Lilium](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmTWKpbKSzKNmdd6iNcicAWogcxDVJfX2EBenAj7Fvnyci)
+
+2019-07-07 [拉丁歌词解析：Somnus](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmV4fZfrWX9A8TmypvyQfuhqJUjynP6Nkm6qXPSqJJpV7Z)
+
+2019-06-29 [拉丁语自学经验](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmZB8LY2q8KbrSUavovpkBfuQTEQbrAvbgUZ4vizcCy2be)
+
+2019-06-27 [主席们何去何从：Matters会加V吗](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmbQj9P72MweYoGbcHXh6zCeiQ6PVwMnuu2TaAS9MrkSAz)
+
+2019-06-20 [新教只是运气好](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmZHZYx6U1UEReiRhkjPqwHgGtdSPmeYVqgZ79oU6Njdrd)
+
+2019-06-20 [非進步派話題互助貼](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmPC98PCBzVwE9czYkLaHjLsNbn8atJ7iN1FFkQxpyiKkx)
+
+2019-06-19 [聊聊罗永浩](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmdQrYFk5MkyPfZhvkqrKGi5YviQBETmsrxdyUrdjzPiJ5)
 

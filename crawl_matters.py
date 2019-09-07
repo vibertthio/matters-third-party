@@ -4,7 +4,8 @@ import json
 import re
 import datetime
 
-URL = "https://matters.news/@vibertthio"
+# URL = "https://matters.news/@vibertthio"
+URL = "https://matters.news/@Andy"
 
 response = requests.get(URL)
 text = response.text
@@ -24,6 +25,9 @@ for script in soup('script'):
                     'dataHash': data[key]['dataHash']
                 })
 
+# for a in articles:
+# 	print(a)
+
 with open('./index.md', 'w') as file:
     file.write('''---
 title: /articles
@@ -34,4 +38,4 @@ permalink: /
 ''')
 
     for a in articles:
-        file.write('{} [{}](https://ipfs.io/ipfs/{})\n\n'.format(a['time'], a['title'], a['dataHash']))
+        file.write('{} [{}](https://d26g9c7mfuzstv.cloudfront.net/ipfs/{})\n\n'.format(a['time'], a['title'], a['dataHash']))
